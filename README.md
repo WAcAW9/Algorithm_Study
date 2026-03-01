@@ -45,8 +45,8 @@
 | 플랫폼 | 풀이 수 |
 |--------|---------|
 | 백준 | 0 |
-| 프로그래머스 | 2 |
-| **합계** | **2** |
+| 프로그래머스 | 3 |
+| **합계** | **3** |
 
 ---
 
@@ -59,6 +59,7 @@
 |------|------|--------|------|------|
 | 2026-02-11 | [120834 외계 행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | Level 0 | 문자열 처리 | [풀이](programmers/Lv0/120834_외계행성의나이.py) |
 | 2026-02-11 | [120835 진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | Level 0 | 정렬 | [풀이](programmers/Lv0/120835_진료순서정하기.py) |
+| 2026-02-11 | [120836 순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | Level 0 | 수학 (약수) | [풀이](programmers/Lv0/120836_순서쌍의개수.py) |
 
 
 ### 백준
