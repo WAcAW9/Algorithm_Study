@@ -45,8 +45,8 @@
 | 플랫폼 | 풀이 수 |
 |--------|---------|
 | 백준 | 0 |
-| 프로그래머스 | 10 |
-| **합계** | **10** |
+| 프로그래머스 | 11 |
+| **합계** | **11** |
 
 ---
 
@@ -67,6 +67,7 @@
 | 2026-02-27 | [120841 점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841) | Level 0 | 수학 (사분면) | [풀이](programmers/Lv0/120841_점의위치구하기.py) |
 | 2026-02-27 | [120842 2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | Level 0 | 구현 (리스트 슬라이싱) | [풀이](programmers/Lv0/120842_2차원으로만들기.py) |
 | 2026-03-04 | [120843 공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | Level 0 | 배열 (인덱스 조작) | [풀이](programmers/Lv0/120843_공던지기.py) |
+| 2026-03-04 | [120844 배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844) | Level 0 | 자료구조 (덱) | [풀이](programmers/Lv0/120844_배열회전시키기.py) |
 
 
 ### 백준
