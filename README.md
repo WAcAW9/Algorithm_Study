@@ -45,8 +45,8 @@
 | 플랫폼 | 풀이 수 |
 |--------|---------|
 | 백준 | 0 |
-| 프로그래머스 | 13 |
-| **합계** | **13** |
+| 프로그래머스 | 14 |
+| **합계** | **14** |
 
 ---
 
@@ -70,6 +70,7 @@
 | 2026-03-04 | [120844 배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844) | Level 0 | 자료구조 (덱) | [풀이](programmers/Lv0/120844_배열회전시키기.py) |
 | 2026-03-04 | [120845 주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) | Level 0 | 수학 (정수 나눗셈) | [풀이](programmers/Lv0/120845_주사위의개수.py) |
 | 2026-03-05 | [120846 합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) | Level 0 | 수학 (합성수 판별) | [풀이](programmers/Lv0/120846_합성수찾기.py) |
+| 2026-03-05 | [120847 최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | Level 0 | 배열 (최댓값) | [풀이](programmers/Lv0/120847_최댓값만들기(1).py) |
 
 
 ### 백준
