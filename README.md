@@ -48,8 +48,8 @@
 | 플랫폼 | 풀이 수 |
 |--------|---------|
 | 백준 | 0 |
-| 프로그래머스 | 20 |
-| **합계** | **20** |
+| 프로그래머스 | 21 |
+| **합계** | **21** |
 
 ---
 
@@ -80,6 +80,7 @@
 | 2026-03-08 | [120851 숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | Level 0 | 문자열 (숫자 추출 + 합산) | [풀이](programmers/Lv0/120851_숨어있는숫자의덧셈(1).py) |
 | 2026-03-11 | [120852 소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | Level 0 | 수학 (소인수분해) | [풀이](programmers/Lv0/120852_소인수분해.py) |
 | 2026-03-11 | [120853 컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853) | Level 0 | 문자열 + 스택 | [풀이](programmers/Lv0/120853_컨트롤제트.py) |
+| 2026-03-11 | [120854 배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | Level 0 | 배열 + 문자열 | [풀이](programmers/Lv0/120854_배열원소의길이.py) |
 
 
 ### 백준
