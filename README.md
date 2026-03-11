@@ -48,8 +48,8 @@
 | 플랫폼 | 풀이 수 |
 |--------|---------|
 | 백준 | 0 |
-| 프로그래머스 | 18 |
-| **합계** | **18** |
+| 프로그래머스 | 19 |
+| **합계** | **19** |
 
 ---
 
@@ -78,6 +78,7 @@
 | 2026-03-08 | [120849 모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) | Level 0 | 문자열 (replace) | [풀이](programmers/Lv0/120849_모음제거.py) |
 | 2026-03-08 | [120850 문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | Level 0 | 문자열 + 정렬 (숫자 추출) | [풀이](programmers/Lv0/120850_문자열정렬하기(1).py) |
 | 2026-03-08 | [120851 숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | Level 0 | 문자열 (숫자 추출 + 합산) | [풀이](programmers/Lv0/120851_숨어있는숫자의덧셈(1).py) |
+| 2026-03-11 | [120852 소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | Level 0 | 수학 (소인수분해) | [풀이](programmers/Lv0/120852_소인수분해.py) |
 
 
 ### 백준
