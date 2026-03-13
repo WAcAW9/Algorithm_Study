@@ -48,8 +48,8 @@
 | 플랫폼 | 풀이 수 |
 |--------|---------|
 | 백준 | 0 |
-| 프로그래머스 | 23 |
-| **합계** | **23** |
+| 프로그래머스 | 24 |
+| **합계** | **24** |
 
 ---
 
@@ -83,6 +83,7 @@
 | 2026-03-11 | [120854 배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | Level 0 | 배열 + 문자열 | [풀이](programmers/Lv0/120854_배열원소의길이.py) |
 | 2026-03-12 | [120888 중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | Level 0 | 문자열 | [풀이](programmers/Lv0/120888_중복된문자제거.py) |
 | 2026-03-12 | [120889 삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) | Level 0 | 정렬 + 수학 | [풀이](programmers/Lv0/120889_삼각형의완성조건(1).py) |
+| 2026-03-13 | [120890 가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) | Level 0 | 정렬 + 탐색 | [풀이](programmers/Lv0/120890_가까운 수.py) |
 
 
 ### 백준
