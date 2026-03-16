@@ -48,8 +48,8 @@
 | 플랫폼 | 풀이 수 |
 |--------|---------|
 | 백준 | 0 |
-| 프로그래머스 | 25 |
-| **합계** | **25** |
+| 프로그래머스 | 26 |
+| **합계** | **26** |
 
 ---
 
@@ -85,6 +85,7 @@
 | 2026-03-12 | [120889 삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) | Level 0 | 정렬 + 수학 | [풀이](programmers/Lv0/120889_삼각형의완성조건(1).py) |
 | 2026-03-13 | [120890 가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) | Level 0 | 정렬 + 탐색 | [풀이](https://github.com/WAcAW9/Algorithm_Study/blob/master/programmers/Lv0/120890_%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EC%88%98.py) |
 | 2026-03-16 | [120891 369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) | Level 0 | 문자열 | [풀이](programmers/Lv0/120891_369게임.py) |
+| 2026-03-16 | [120892 암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892) | Level 0 | 문자열 | [풀이](programmers/Lv0/120892_암호해독.py) |
 
 
 ### 백준
