@@ -48,8 +48,8 @@
 | 플랫폼 | 풀이 수 |
 |--------|---------|
 | 백준 | 0 |
-| 프로그래머스 | 27 |
-| **합계** | **27** |
+| 프로그래머스 | 28 |
+| **합계** | **28** |
 
 ---
 
@@ -87,6 +87,7 @@
 | 2026-03-16 | [120891 369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) | Level 0 | 문자열 | [풀이](programmers/Lv0/120891_369게임.py) |
 | 2026-03-16 | [120892 암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892) | Level 0 | 문자열 | [풀이](programmers/Lv0/120892_암호해독.py) |
 | 2026-03-16 | [120893 대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) | Level 0 | 문자열 | [풀이](programmers/Lv0/120893_대문자와소문자.py) |
+| 2026-03-18 | [120894 영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | Level 0 | 문자열 (replace) | [풀이](programmers/Lv0/120894_영어가싫어요.py) |
 
 
 ### 백준
