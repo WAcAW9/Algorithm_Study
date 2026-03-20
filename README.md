@@ -48,8 +48,8 @@
 | 플랫폼 | 풀이 수 |
 |--------|---------|
 | 백준 | 0 |
-| 프로그래머스 | 29 |
-| **합계** | **29** |
+| 프로그래머스 | 30 |
+| **합계** | **30** |
 
 ---
 
@@ -89,6 +89,7 @@
 | 2026-03-16 | [120893 대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) | Level 0 | 문자열 | [풀이](programmers/Lv0/120893_대문자와소문자.py) |
 | 2026-03-18 | [120894 영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | Level 0 | 문자열 (replace) | [풀이](programmers/Lv0/120894_영어가싫어요.py) |
 | 2026-03-20 | [120895 인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895) | Level 0 | 문자열 | [풀이](programmers/Lv0/120895_인덱스바꾸기.py) |
+| 2026-03-20 | [120896 한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) | Level 0 | 문자열 | [풀이](programmers/Lv0/120896_한번만등장한문자.py) |
 
 
 ### 백준
