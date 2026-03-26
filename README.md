@@ -48,8 +48,8 @@
 | 플랫폼 | 풀이 수 |
 |--------|---------|
 | 백준 | 0 |
-| 프로그래머스 | 33 |
-| **합계** | **33** |
+| 프로그래머스 | 34 |
+| **합계** | **34** |
 
 ---
 
@@ -93,6 +93,7 @@
 | 2026-03-20 | [120897 약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) | Level 0 | 수학 | [풀이](programmers/Lv0/120897_약수구하기.py) |
 | 2026-03-26 | [120902 문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902) | Level 0 | 문자열 (파싱) | [풀이](programmers/Lv0/120902_문자열계산하기.py) |
 | 2026-03-26 | [120907 OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | Level 0 | 문자열 (파싱) | [풀이](programmers/Lv0/120907_OX퀴즈.py) |
+| 2026-03-26 | [120862 최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862) | Level 0 | 정렬 | [풀이](programmers/Lv0/120862_최댓값만들기(2).py) |
 
 
 ### 백준
