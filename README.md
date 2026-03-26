@@ -48,8 +48,8 @@
 | 플랫폼 | 풀이 수 |
 |--------|---------|
 | 백준 | 0 |
-| 프로그래머스 | 32 |
-| **합계** | **32** |
+| 프로그래머스 | 33 |
+| **합계** | **33** |
 
 ---
 
@@ -92,6 +92,7 @@
 | 2026-03-20 | [120896 한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) | Level 0 | 문자열 | [풀이](programmers/Lv0/120896_한번만등장한문자.py) |
 | 2026-03-20 | [120897 약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) | Level 0 | 수학 | [풀이](programmers/Lv0/120897_약수구하기.py) |
 | 2026-03-26 | [120902 문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902) | Level 0 | 문자열 (파싱) | [풀이](programmers/Lv0/120902_문자열계산하기.py) |
+| 2026-03-26 | [120907 OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | Level 0 | 문자열 (파싱) | [풀이](programmers/Lv0/120907_OX퀴즈.py) |
 
 
 ### 백준
